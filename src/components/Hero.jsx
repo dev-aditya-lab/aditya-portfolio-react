@@ -14,7 +14,7 @@ const goBackHandler = () => {
 }
   return (
     <>
-    <header className='h-screen bg-black'>
+    <header className='h-screen bg-black overflow-hidden'>
 <Navbar/>
       <div className='h-fit flex flex-col lg:flex-row justify-between'>
             <div className='lg:w-1/2 lg:pl-36 pl-5 lg:flex lg:flex-col lg:justify-center'>

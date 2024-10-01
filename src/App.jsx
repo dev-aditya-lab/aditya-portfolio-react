@@ -1,7 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 import Routing from './Routes/Routing';
-import Navbar from './components/Navbar';
 
 const App = () => {
   const location = useLocation();
