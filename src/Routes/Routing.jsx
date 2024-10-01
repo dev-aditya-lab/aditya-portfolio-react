@@ -4,6 +4,7 @@ import Home from '../page/Home'
 import About from '../page/About'
 import Contact from '../page/Contact'
 import Project from '../page/Project'
+import PageNotFound from '@/page/PageNotFound'
 
 const Routing = () => {
   return (
@@ -13,7 +14,7 @@ const Routing = () => {
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/project" element={<Project />} />
-            {/* <Route path="*" element={<NotFound />} /> */}
+            <Route path="*" element={<PageNotFound/>} />
         </Routes>
     </>
   )
