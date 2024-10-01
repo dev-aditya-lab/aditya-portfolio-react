@@ -35,12 +35,9 @@ const About = () => {
   }, []);
 
   useEffect(() => {
-    const token = "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";
-    const headers = {
-      Authorization: `token ${token}`,
-    };
 
-    fetch('https://api.github.com/users/dev-aditya-lab/followers', { headers })
+
+    fetch('https://api.github.com/users/dev-aditya-lab/followers')
       .then(response => {
         if (!response.ok) {
           throw new Error('Failed to fetch data');
