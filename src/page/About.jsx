@@ -66,7 +66,7 @@ const About = () => {
               </div>
             </div>
             <div className={``}>
-              <h1 className={`md:text-6xl text-4xl font-semibold py-2 flex items-baseline`}>{profileData?.name} <img className='md:h-10 h-5 px-2 animate-pulse' src="/vite.svg" alt="" /></h1>
+              <h1 className={`md:text-6xl text-4xl font-semibold py-2 flex items-baseline bg-gradient-to-t from-cyan-300 from-30% via-fuchsia-500 via-100% to-indigo-500 to-25% bg-clip-text text-transparent`}>{profileData?.name} <img className='md:h-10 h-5 px-2 animate-pulse' src="/vite.svg" alt="" /></h1>
 
               <p className={`text-md text-zinc-500`}>{profileData?.bio}</p>
 
