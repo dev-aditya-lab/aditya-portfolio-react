@@ -98,6 +98,21 @@
       "id": 20,
       "name": "Canva",
       "logo": "https://ik.imagekit.io/itsaadi/logos/431c6be8e8dbb358738980c75c35c56ee8e8c3238089ed9b6f04d295d4008970_200.webp?updatedAt=1727771240028"
+    },
+    {
+      "id": 21,
+      "name": "Shadcn UI",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/shadcn?updatedAt=1727776357571"
+    },
+    {
+      "id": 22,
+      "name": "React Native",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/2023-06-13-150446-1686825833778-compressed.png?updatedAt=1727776910481"
+    },
+    {
+      "id": 23,
+      "name": "Redux",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/img.icons8.png?updatedAt=1727771302361"
     }
   ]
   
