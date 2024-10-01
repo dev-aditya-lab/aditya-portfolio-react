@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "HTML5",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/image.png?updatedAt=1727770726658"
+    },
+    {
+      "id": 2,
+      "name": "CSS",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/image(1).png?updatedAt=1727770749062"
+    },
+    {
+      "id": 3,
+      "name": "JavaScript",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+      "id": 4,
+      "name": "Markdown",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/png-clipart-markdown-computer-icons-html-python-markdowns-angle-text-thumbnail.png?updatedAt=1727770898979"
+    },
+    {
+      "id": 5,
+      "name": "Tailwind CSS",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/7577995.webp?updatedAt=1727770899196"
+    },
+    {
+        "id": 6,
+      "name": "Postman",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/37e0974f74cf847e7b198c58cf397b34fc17e5bb62147155df5b1ffa8ce27663_200.webp?updatedAt=1727771286947"
+    },
+    {
+      "id": 7,
+      "name": "Arduino",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/arduino.png?updatedAt=1727770959909"
+    },
+    {
+      "id": 8,
+      "name": "Next.js",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/nextjs7685.logowik.com.webp?updatedAt=1727770990122"
+    },
+    {
+      "id": 9,
+      "name": "React.js",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+    },
+    {
+      "id": 10,
+      "name": "Git",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/download.png?updatedAt=1727771009112"
+    },
+    {
+      "id": 11,
+      "name": "GitHub",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/images(1).png?updatedAt=1727771028274"
+    },
+    {
+      "id": 12,
+      "name": "Express.js",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/download(1).png?updatedAt=1727771094611"
+    },
+    {
+      "id": 13,
+      "name": "Node.js",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/images(2).png?updatedAt=1727771064385"
+    },
+    {
+      "id": 14,
+      "name": "MongoDB",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/download(2).png?updatedAt=1727771118620"
+    },
+    {
+      "id": 15,
+      "name": "MySQL",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/download(3).png?updatedAt=1727771134784"
+    },
+    {
+      "id": 16,
+      "name": "Microsoft Visual Studio Code",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/images.jpg?updatedAt=1727771157040"
+    },
+    {
+      "id": 17,
+      "name": "Android Studio",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/android-studio-1.svg?updatedAt=1727771187315"
+    },
+    {
+      "id": 18,
+      "name": "C Programming",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/images(3).png?updatedAt=1727771207626"
+    },
+    {
+      "id": 19,
+      "name": "Figma",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/images(4).png?updatedAt=1727771225101"
+    },
+    {
+      "id": 20,
+      "name": "Canva",
+      "logo": "https://ik.imagekit.io/itsaadi/logos/431c6be8e8dbb358738980c75c35c56ee8e8c3238089ed9b6f04d295d4008970_200.webp?updatedAt=1727771240028"
+    }
+  ]
+  
