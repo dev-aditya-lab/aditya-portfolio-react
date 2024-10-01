@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import 'remixicon/fonts/remixicon.css';
-import Navbar from './navbar';
+import Navbar from './Navbar';
 
 
 
