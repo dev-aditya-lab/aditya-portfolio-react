@@ -1,0 +1,7 @@
+static:
+  buildCommand: npm run build
+  publishPath: /dist
+  routes:
+    - src: /.*
+      dest: /index.html
+      status: 200
